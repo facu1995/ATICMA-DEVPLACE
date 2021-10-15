@@ -1,0 +1,45 @@
+body{
+    background: #263238;
+    font-size:20px;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 30px 20px;
+    background: #263238;
+    color: #B0BEC5;
+    text-decoration: none;
+    justify-content: space-evenly;
+    margin: 0 0;
+    font-weight: bold;
+}
+ul li a{
+    text-decoration: none;
+    color: #B0BEC5;
+    font-size: 24px;
+}
+
+.HeaderHome{
+    margin: auto;
+}
+
+img{
+    max-height: 900px;
+}
+
+footer{
+    background: #263238;
+    color: #B0BEC5;
+
+}
+
+footer>.container >.row{
+    padding: 10px 0 10px 0;
+}
+
+.HeaderContact{
+    padding: 20px 20px 50px;
+    background: #d5e1e7;
+}
+
